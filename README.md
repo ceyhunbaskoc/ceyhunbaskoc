@@ -3,8 +3,6 @@
 
 ```yaml
 name: Ceyhun Başkoç
-located_in: Isparta/Merkez
-current_job: None
 
 fields_of_interests:
   [
